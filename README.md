@@ -1,4 +1,4 @@
-# weather-monitor
+# weather-conky
 
 Este es un pequeño script para mostar en conky la temperatura actual
 
